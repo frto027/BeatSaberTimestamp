@@ -23,7 +23,7 @@ A mod used to measure graph delay for your device.
 以下数据仅供参考。注意，此数据不含操作延迟的测量，这一延迟在VirtualDesktop中体感明显。
 
 设备：Quest2
-方式|刷新率|游戏启动方式|典型延迟
+方式|刷新率|游戏启动方式|典型下限（延迟不低于此值，不高于此值加一帧的时间）
 ----|----|----|----
 有线(铜线USB3.1) |72hz|oculus|14ms
 有线(三方光纤线) |72hz|oculus|14ms
